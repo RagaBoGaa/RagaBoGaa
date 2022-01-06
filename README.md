@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RagaBoGaa
+- 👋 Hi, I’m @Ragab Magdy
 - 👀 I’m interested in Front-End development.
 - 🌱 I’m currently learning to code with HTML/CSS and in the future JavaScript and Frameworks.
 - 💞️ I’m looking to collaborate on ...
